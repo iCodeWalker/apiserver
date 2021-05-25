@@ -1,0 +1,41 @@
+{
+  "streams": [
+    {
+      "title": "JavaScript advance Coding",
+      "description": "This tutorial contains the topics of es6 syntax, JavaScript Classes, Functions and many more topic",
+      "id": 1
+    },
+    {
+      "title": "React Coding Stream ",
+      "description": "Have stream that shares the idea about how to approach for solving errors in react. ",
+      "id": 2
+    },
+    {
+      "title": "Django Stream",
+      "description": "Basic of Django ",
+      "id": 3
+    },
+    {
+      "title": "React Native Setup",
+      "description": "This tutorial talks about how to set up React Native in your local machine.",
+      "userId": "107615530613731828530",
+      "id": 5
+    },
+    {
+      "title": "Json-server setup",
+      "description": "This stream is about the setup of json-serer in your local machine.",
+      "id": 6
+    },
+    {
+      "title": "CSS stream",
+      "description": "This stream is about basics of the CSS and how to use some css library.",
+      "id": 7
+    },
+    {
+      "title": "More about Django ",
+      "description": "learning about django rest framework for API",
+      "userId": "107615530613731828530",
+      "id": 8
+    }
+  ]
+}
